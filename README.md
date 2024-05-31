@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 
 
 <body>
@@ -46,7 +48,28 @@
         </ul>
         <p>We intend to use the MERN stack for building this project.</p>
         </p>
+        <p>
+            <h3>Modules required </h3>
+            <p>
+                <ul>
+                    <li>Login</li>
+                    <li>Signup</li>
+                    <li>Dashboard</li>
+                    <li>Laundry Service</li>
+                    <li>Maintenance Requests</li>
+                    <li>Sports Equipment Booking</li>
+                    <li>Ride Booking</li>
+                    <li>Reviews and Recommendations</li>
+                    <li>Clubs and Events Information</li>
+                    <li>Student Directory</li>
+                    <li>Mess Information</li>
+                    <li>Hostel Leaving Form</li>
+                    <li>Lost and Found</li>
+                    <li>Buy and Sell</li>
+                </ul>
+            </p>
+        </p>
     </div>
 </body>
-
 </html>
+
